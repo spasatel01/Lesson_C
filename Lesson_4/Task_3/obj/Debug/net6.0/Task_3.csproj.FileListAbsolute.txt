@@ -1,0 +1,15 @@
+C:\Сашины документы\Обучение программирование\Lesson_C#\Lesson_C\Lesson_4\Task_3\bin\Debug\net6.0\Task_3.exe
+C:\Сашины документы\Обучение программирование\Lesson_C#\Lesson_C\Lesson_4\Task_3\bin\Debug\net6.0\Task_3.deps.json
+C:\Сашины документы\Обучение программирование\Lesson_C#\Lesson_C\Lesson_4\Task_3\bin\Debug\net6.0\Task_3.runtimeconfig.json
+C:\Сашины документы\Обучение программирование\Lesson_C#\Lesson_C\Lesson_4\Task_3\bin\Debug\net6.0\Task_3.dll
+C:\Сашины документы\Обучение программирование\Lesson_C#\Lesson_C\Lesson_4\Task_3\bin\Debug\net6.0\Task_3.pdb
+C:\Сашины документы\Обучение программирование\Lesson_C#\Lesson_C\Lesson_4\Task_3\obj\Debug\net6.0\Task_3.csproj.AssemblyReference.cache
+C:\Сашины документы\Обучение программирование\Lesson_C#\Lesson_C\Lesson_4\Task_3\obj\Debug\net6.0\Task_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Сашины документы\Обучение программирование\Lesson_C#\Lesson_C\Lesson_4\Task_3\obj\Debug\net6.0\Task_3.AssemblyInfoInputs.cache
+C:\Сашины документы\Обучение программирование\Lesson_C#\Lesson_C\Lesson_4\Task_3\obj\Debug\net6.0\Task_3.AssemblyInfo.cs
+C:\Сашины документы\Обучение программирование\Lesson_C#\Lesson_C\Lesson_4\Task_3\obj\Debug\net6.0\Task_3.csproj.CoreCompileInputs.cache
+C:\Сашины документы\Обучение программирование\Lesson_C#\Lesson_C\Lesson_4\Task_3\obj\Debug\net6.0\Task_3.dll
+C:\Сашины документы\Обучение программирование\Lesson_C#\Lesson_C\Lesson_4\Task_3\obj\Debug\net6.0\refint\Task_3.dll
+C:\Сашины документы\Обучение программирование\Lesson_C#\Lesson_C\Lesson_4\Task_3\obj\Debug\net6.0\Task_3.pdb
+C:\Сашины документы\Обучение программирование\Lesson_C#\Lesson_C\Lesson_4\Task_3\obj\Debug\net6.0\Task_3.genruntimeconfig.cache
+C:\Сашины документы\Обучение программирование\Lesson_C#\Lesson_C\Lesson_4\Task_3\obj\Debug\net6.0\ref\Task_3.dll
